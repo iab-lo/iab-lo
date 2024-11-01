@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, Tableau, Data storytelling
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/iablo275/)
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I'm a cat lover. My dream is to foster elderly cats and provide a safe and loving home during their golden years.
+- ⚡ Fun fact: I have too many crafty hobbies currently and still want to learn more. I love to knit, crochet, diamond paint, and punch needling.
 
 <!---
 iab-lo/iab-lo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
